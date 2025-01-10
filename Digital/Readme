@@ -1,1 +1,15 @@
+This section covers preparation resources for roles in  Digital design.
+Main topics to cover:-
+ 1. Combinational and Sequential circuits, FSM, FF, Counters ,Sequence detectors and clock dividers(integer as well as non integer) 
+ 2. Static Time Analysis
+ 3.  FIFO Depth Calculation
+ 4. Fault Analysis and Hazards
+ 5. CMOS
+ 6. Memory (RAM - SRAM / DRAM, ROM etc.)
+ 7. Programmable devices
+ 8. Computer Organisation and Architecture
+ 9. Verilog
+ 10. Protocols
 
+For covering point 1 you can refer 
+ 
