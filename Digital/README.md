@@ -75,7 +75,7 @@ This section covers preparation resources for roles in **Digital Design**. Below
     5. Arrays  
     6. Pointers (very important)  
     7. OOPS (four pillars: Inheritance, Encapsulation, etc.)  
-  - 🎥 Refer to this [C++ playlist](https://youtube.com/playlist?list=PLqM7alHXFySHm4VjV-OZgIrwdjXfCBQmI&si=QVa5xJfix5A-yEKf).  
+  - 🎥 Refer to this [playlist](https://youtube.com/playlist?list=PLqM7alHXFySHm4VjV-OZgIrwdjXfCBQmI&si=QVa5xJfix5A-yEKf).  
 - Know Python? It’s a perk but not mandatory.  
 
 #### 🔟 **Protocols**  
